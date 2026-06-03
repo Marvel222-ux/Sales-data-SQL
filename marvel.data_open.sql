@@ -29,3 +29,48 @@ select Payment_Method,
 count(*) as TotalTransactions
 from marvel.data_open
 group by Payment_Method;
+
+select *
+from marvel.data_open
+order by Discount asc;
+
+select marvel.data_open.User_ID,
+Product_ID, marvel.data_open.Category,
+marvel.data_open.Final_Price
+from marvel.data_open;
+
+create view SalesSummary as
+select Category,
+        sum(Final_Price) as TotalSales,
+        avg(Final_Price) as AverageSales
+from marvel.data_open
+group by Category;
+
+select * from SalesSummary;
+
+create view PaymentSummary as
+select Payment_Method,
+        count(*) as TotalTransactions,
+        sum(Final_Price) as TotalRevenue
+from marvel.data_open
+group by Payment_Method;
+
+select * from PaymentSummary;
+
+select Category,
+     count(*) as TotalOrders,
+	sum(Final_Price) as TotalRevenue,
+    avg(Final_Price) as AverageRevenue
+ from marvel.data_open
+ group by Category 
+ order by TotalRevenue desc;
+ 
+ SELECT month(Purchase_Date) as SalesMonth,
+        sum(Final_Price) as TotalRevenue
+        from marvel.data_open
+        group by month(Purchase_Date);
+        
+        select Category,
+        avg(Discount) as AverageDiscount
+        from marvel.data_open
+        group by Category;
