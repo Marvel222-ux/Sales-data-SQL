@@ -1,0 +1,100 @@
+User_ID,Product_ID,Category,Price ,Discount ,Final_Price,Payment_Method,Purchase_Date
+337c166f,f414122f-e,Sports,36.53,15,31.05,Net Banking,2024-11-12
+d38a19bf,fde50f9c-5,Clothing,232.79,20,186.23,Net Banking,2024-02-09
+d7f5f0b0,0d96fc90-3,Sports,317.02,25,237.76,Credit Card,2024-09-01
+395d4994,964fc44b-d,Toys,173.19,25,129.89,UPI,2024-04-01
+a83c145c,d70e2fc6-e,Beauty,244.8,20,195.84,Net Banking,2024-09-27
+3fdcdae8,0816ee12-5,Books,241.86,50,120.93,UPI,2024-08-08
+12772337,d41e0b55-c,Toys,76.91,5,73.06,Credit Card,2024-03-28
+9f0194af,83b7dc04-5,Sports,213.23,20,170.58,Net Banking,2024-05-29
+7a8559d8,87c9c896-1,Sports,379.81,5,360.82,Credit Card,2024-02-26
+8911f0d1,31308875-b,Home & Kitchen,415.36,50,207.68,Net Banking,2024-01-11
+9.89E+45,b2b1af7b-7,Books,73.09,10,65.78,Cash on Delivery,2024-10-21
+3b857e65,e221cf14-c,Beauty,393.77,15,334.7,Cash on Delivery,2024-09-10
+204fab33,8c9a5f54-b,Home & Kitchen,287.69,10,258.92,Credit Card,2024-03-08
+88159234,eeb0635d-a,Sports,26.26,50,13.13,Credit Card,2024-05-10
+8c1f2f98,38aec303-2,Clothing,305.1,25,228.83,UPI,2024-06-20
+a84d7206,69d91fbc-3,Home & Kitchen,113.71,5,108.02,Credit Card,2024-04-28
+4578c08e,928b4b24-d,Toys,426.75,0,426.75,Net Banking,2024-08-17
+ba3964fa,12f03ff4-6,Home & Kitchen,52.98,0,52.98,Net Banking,2024-08-08
+78595586,729191af-4,Electronics,223.89,0,223.89,Cash on Delivery,2024-06-13
+195e0c14,089c1cdd-0,Clothing,166.75,0,166.75,Debit Card,2024-09-23
+7f6e9ab5,a38a732e-9,Home & Kitchen,77.22,15,65.64,Cash on Delivery,2024-06-01
+d33a1a62,4c021051-3,Toys,28.6,25,21.45,Credit Card,2024-04-19
+427a8468,e57d04f5-d,Books,395.73,15,336.37,Cash on Delivery,2024-11-07
+97f18950,b1d2560c-7,Home & Kitchen,351.87,0,351.87,Net Banking,2024-08-31
+426308a5,4dc7c4a3-8,Toys,257.14,20,205.71,Net Banking,2024-09-14
+57c601ea,ce353020-f,Sports,332,20,265.6,Net Banking,2024-02-03
+a429364b,7fd8663b-b,Toys,375.59,30,262.91,Net Banking,2024-04-14
+928bddf9,b338a0b6-7,Beauty,235.13,25,176.35,UPI,2024-08-06
+0f32a6f6,df52cac6-d,Electronics,352.95,50,176.47,UPI,2024-08-05
+d71af9e5,d384b62b-c,Toys,245.98,15,209.08,Cash on Delivery,2024-06-28
+b0d1473b,7004654f-0,Toys,389.72,10,350.75,Debit Card,2024-04-22
+9b99bfb0,5bfb14c4-f,Home & Kitchen,88.07,30,61.65,UPI,2024-10-07
+de4cdcdd,411c40d9-1,Beauty,40.78,50,20.39,Cash on Delivery,2024-03-20
+5f57fbd4,d5b42863-c,Toys,105.1,25,78.82,Net Banking,2024-03-10
+87f21131,b896f670-9,Home & Kitchen,224.52,50,112.26,Debit Card,2024-05-21
+f7d6dfab,6b5e4a98-0,Books,300.81,5,285.77,Debit Card,2024-06-01
+ca363a04,7f05dd28-6,Toys,24.17,25,18.13,Credit Card,2024-01-15
+68d24203,3e56a630-e,Clothing,95.41,15,81.1,Debit Card,2024-04-21
+0ae7336e,1dc3b1a0-4,Clothing,490.77,10,441.69,UPI,2024-08-03
+72343250,cc379a88-b,Electronics,188.07,50,94.03,Debit Card,2024-07-01
+021adfb6,1695a728-0,Home & Kitchen,319.29,5,303.33,Credit Card,2024-02-20
+a9f47880,c66354db-6,Toys,403.4,10,363.06,Net Banking,2024-08-25
+005258a0,273c5035-2,Electronics,303.14,0,303.14,Debit Card,2024-05-17
+5e088877,74b72b2f-7,Home & Kitchen,337.81,25,253.36,Credit Card,2024-06-18
+f2e7bcc0,5e059f5f-7,Clothing,449.74,10,404.77,Cash on Delivery,2024-09-15
+5a1d9851,dd5071f5-c,Sports,272.92,30,191.04,Net Banking,2024-05-12
+cc672bd7,db828c6d-0,Home & Kitchen,432.89,15,367.96,Credit Card,2024-02-25
+5c2f954d,db26458e-0,Home & Kitchen,310.86,10,279.77,UPI,2024-10-30
+d5daed7a,ee59d876-b,Beauty,479.19,0,479.19,Debit Card,2024-08-11
+0b32dc6f,919b53bb-2,Home & Kitchen,350.61,10,315.55,Debit Card,2024-06-03
+a151d3b5,159dca37-7,Books,154.62,50,77.31,Net Banking,2024-10-08
+e9fde811,af65c4a5-5,Toys,435.6,50,217.8,Net Banking,2024-04-04
+932c893c,847e77d3-d,Toys,400.31,25,300.23,Net Banking,2024-08-03
+b98d8283,e907e57c-b,Electronics,15.81,25,11.86,UPI,2024-05-08
+4319ad38,f8495894-2,Toys,35.25,15,29.96,UPI,2024-01-11
+0b204db3,be68a8d8-7,Electronics,414.76,0,414.76,Debit Card,2024-06-30
+eb65d1ca,e964198d-7,Toys,334.47,30,234.13,Debit Card,2024-08-25
+2ce76c47,c834b41d-5,Home & Kitchen,178.39,25,133.79,UPI,2024-10-04
+e186c635,c4ddee78-e,Books,237.95,15,202.26,Net Banking,2024-10-22
+8e9eae19,59718054-8,Electronics,458.12,15,389.4,UPI,2024-08-29
+1100831a,0a46a91c-d,Beauty,286.5,5,272.18,Credit Card,2024-08-10
+64b48c94,07ce9e62-a,Sports,10.78,10,9.7,Net Banking,2024-08-22
+88e9aac9,baff7ab2-1,Beauty,342.66,30,239.86,UPI,2024-07-24
+a87b658a,2449a91f-2,Sports,225.17,30,157.62,Cash on Delivery,2024-09-16
+f92a5812,273ceb78-0,Clothing,405.45,25,304.09,UPI,2024-07-18
+158e8085,04dcad68-2,Beauty,112.45,0,112.45,Credit Card,2024-07-07
+179ae4c5,6d1089e4-9,Books,380.81,20,304.65,Credit Card,2024-04-01
+79aff6cb,32452d43-a,Sports,394.12,25,295.59,Credit Card,2024-03-09
+4e082c18,df40cf3d-6,Sports,334.77,15,284.55,Cash on Delivery,2024-01-29
+3a475b95,42559644-1,Clothing,125.65,10,113.09,UPI,2024-02-27
+57633cda,54c501ae-e,Toys,202.26,20,161.81,Cash on Delivery,2024-09-13
+3f09b3c3,893343d5-d,Clothing,173.51,20,138.81,Net Banking,2024-01-28
+12574fb0,ade73cc0-5,Toys,30.8,50,15.4,UPI,2024-04-28
+6b92aea5,663d067f-2,Home & Kitchen,305.93,10,275.34,Cash on Delivery,2024-10-19
+cf929cc7,bc84dcb8-5,Clothing,282.5,5,268.38,Cash on Delivery,2024-04-14
+c73916c0,56c95db1-7,Books,274.87,50,137.44,Net Banking,2024-09-17
+ddae0858,4dd272cd-4,Electronics,93.08,20,74.46,Net Banking,2024-03-11
+616fca83,c893a571-b,Home & Kitchen,274.11,15,232.99,Credit Card,2024-10-17
+0ac5e876,60e53d02-0,Sports,362.61,0,362.61,Cash on Delivery,2024-11-21
+5d31e0f4,568f353e-6,Electronics,486.62,25,364.97,Net Banking,2024-01-09
+04cdb11d,c2d4aa98-b,Home & Kitchen,336.49,20,269.19,Cash on Delivery,2024-09-03
+e54b0416,ec8c9491-b,Toys,454.39,25,340.79,Credit Card,2024-09-04
+0d9f9cc3,dd1ca92d-a,Home & Kitchen,215.44,50,107.72,UPI,2024-06-22
+8c2e8d5f,0fa064a8-d,Clothing,33.02,15,28.07,UPI,2024-09-18
+849f6eb8,2ad0fe64-8,Toys,138.83,10,124.95,Net Banking,2024-06-18
+6964d7bb,9a0a1741-8,Books,490.71,5,466.17,Debit Card,2024-03-10
+f9941dc2,b46f5c60-7,Toys,280.66,15,238.56,Debit Card,2024-11-11
+aa8f723f,214f0eed-f,Books,327.4,30,229.18,Debit Card,2024-09-11
+0f78333d,c70fab41-e,Books,309.67,25,232.25,UPI,2024-09-04
+94aa211f,fcbc5388-0,Books,292.67,25,219.5,Credit Card,2024-02-13
+414b8fad,2257fd97-e,Clothing,40.87,15,34.74,Net Banking,2024-03-11
+8f081976,34a952b4-a,Clothing,455.19,15,386.91,Net Banking,2024-10-05
+41622516,5d9e94f3-1,Toys,312.3,10,281.07,UPI,2024-01-31
+0b3c2c9f,4ff5749c-e,Sports,193.28,10,173.95,UPI,2024-06-11
+b7f89b7e,74aeba43-c,Electronics,216.18,30,151.33,Credit Card,2024-03-27
+458ce5f7,2228c622-f,Electronics,81.41,5,77.34,Cash on Delivery,2024-02-20
+b9fabe54,e907f4d3-9,Beauty,496.05,5,471.25,Debit Card,2024-01-09
+2403105a,a7298172-c,Sports,357.54,15,303.91,Cash on Delivery,2024-06-15
+7a5f0316,4118f1cc-3,Electronics,133.93,0,133.93,Cash on Delivery,2024-04-24
