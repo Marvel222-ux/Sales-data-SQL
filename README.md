@@ -8,7 +8,10 @@ This project analyzes sales data using SQL.
 - SELECT
 - WHERE
 - GROUP BY
-- Aggregate
+- AGGREGATE
+- VIEWS
+- ORDER BY
+- SUB-QUERIES
 
 ## Tools Used
 - MySQL
